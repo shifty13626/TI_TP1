@@ -1,0 +1,1 @@
+lancer le service pour afficher les images : Xming
